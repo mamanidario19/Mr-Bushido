@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectInfo>
+	<Project Name="Mr Bushido_WwiseProject" GUID="{857FFAE8-6EBC-40B8-BB64-BA130C1A1A12}" Generator="2022.1.0.8070"/>
+	<CacheRoot>../../../../Mr Bushido_WwiseProject/.cache</CacheRoot>
+	<Platforms>
+		<Platform Name="Android" GUID="{B30CB922-BBD6-4513-A882-1B83A3153C98}" BasePlatform="Android" BasePlatformGUID="{A2D401DE-B8B6-4FEB-8142-137C34D507CA}" Path="../../../../Mr Bushido_WwiseProject/GeneratedSoundBanks/Android"/>
+		<Platform Name="Mac" GUID="{C4DE5FD8-9DBA-4267-9F98-97F199FD77FD}" BasePlatform="Mac" BasePlatformGUID="{9C6217D5-DD11-4795-87C1-6CE02853C540}" Path="../../../../Mr Bushido_WwiseProject/GeneratedSoundBanks/Mac"/>
+		<Platform Name="Windows" GUID="{9F0001EB-61C8-4916-AB58-F2CCB40CD319}" BasePlatform="Windows" BasePlatformGUID="{6E0CB257-C6C8-4C5C-8366-2740DFC441EB}" Path="../../../../Mr Bushido_WwiseProject/GeneratedSoundBanks/Windows"/>
+	</Platforms>
+	<Languages>
+		<Language Name="English(US)" Id="684519430" GUID="{90865BAB-B440-4829-9F10-AE4D85936B1C}" Default="true" UseAsStandIn="true"/>
+	</Languages>
+	<FileHash>{D9F90CB1-735D-B7BC-0785-DA71D32AC48C}</FileHash>
+</ProjectInfo>

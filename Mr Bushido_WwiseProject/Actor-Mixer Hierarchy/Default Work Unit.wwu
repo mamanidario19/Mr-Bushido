@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{6FE461E8-39FE-49CC-B5B6-BC929F82BF94}" SchemaVersion="110">
+	<AudioObjects>
+		<WorkUnit Name="Default Work Unit" ID="{6FE461E8-39FE-49CC-B5B6-BC929F82BF94}" PersistMode="Standalone">
+			<ChildrenList>
+				<Sound Name="MENU" ID="{5680FEA0-D069-4F7F-AC56-38F75FBCA738}" ShortID="1034223239">
+					<PropertyList>
+						<Property Name="IsLoopingEnabled" Type="bool" Value="True"/>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F9F68666-D43E-46C3-B86B-FB867DAE5258}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1B6FC60E-1237-40EA-83FB-6D81DCC1ACB1}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="MENU" ID="{4B601942-B835-46FA-B0D7-A4C3CEE04059}">
+							<PropertyList>
+								<Property Name="FadeOutDuration" Type="Real64" Value="1.62592307692308"/>
+								<Property Name="LoopEnd" Type="Real64" Value="20.9249230769231"/>
+								<Property Name="OverrideWavLoop" Type="bool" Value="True"/>
+							</PropertyList>
+							<Language>SFX</Language>
+							<AudioFile>MENU.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="762766870"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="MENU" ID="{4B601942-B835-46FA-B0D7-A4C3CEE04059}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>

@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1278378707	Play_MENU			\Default Work Unit\Play_MENU	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	762766870	MENU	D:\Mr Bushido\Mr Bushido\Mr Bushido_WwiseProject\.cache\Mac\SFX\MENU_4963900A.wem		\Actor-Mixer Hierarchy\Default Work Unit\MENU		4234896
+
